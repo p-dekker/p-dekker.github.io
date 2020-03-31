@@ -1,1 +1,0 @@
-A CLC-genomics workbench plugin for the generation of the annotated SARS-CoV-2 genome out of NGS sequence reads. 
